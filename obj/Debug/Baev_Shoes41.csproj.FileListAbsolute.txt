@@ -1,0 +1,54 @@
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\bin\Debug\Baev_Shoes41.exe.config
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\bin\Debug\Baev_Shoes41.exe
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\bin\Debug\Baev_Shoes41.pdb
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\bin\Debug\EntityFramework.dll
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\bin\Debug\EntityFramework.xml
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.csproj.AssemblyReference.cache
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\AddEditPage.g.cs
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\MainWindow.g.cs
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\ProductPage.g.cs
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\App.g.cs
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41_Content.g.cs
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41_MarkupCompile.cache
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41_MarkupCompile.lref
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\App.baml
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\AddEditPage.baml
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\MainWindow.baml
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\ProductPage.baml
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.g.resources
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.Properties.Resources.resources
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.csproj.GenerateResource.cache
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.csproj.CoreCompileInputs.cache
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Sho.9A04B0C6.Up2Date
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.exe
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.pdb
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.exe.config
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\bin\Debug\Baev_Shoes41.exe.config
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\bin\Debug\Baev_Shoes41.exe
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\bin\Debug\Baev_Shoes41.pdb
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\bin\Debug\EntityFramework.dll
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\bin\Debug\EntityFramework.SqlServer.dll
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\bin\Debug\EntityFramework.xml
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\bin\Debug\EntityFramework.SqlServer.xml
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.csproj.AssemblyReference.cache
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\AddEditPage.g.cs
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\MainWindow.g.cs
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\ProductPage.g.cs
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\App.g.cs
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41_Content.g.cs
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41_MarkupCompile.cache
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41_MarkupCompile.lref
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\App.baml
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\AddEditPage.baml
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\MainWindow.baml
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\ProductPage.baml
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.g.resources
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.Properties.Resources.resources
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.csproj.GenerateResource.cache
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.csproj.CoreCompileInputs.cache
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Sho.9A04B0C6.Up2Date
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.exe
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.pdb
+D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.exe.config

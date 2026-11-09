@@ -9,7 +9,44 @@
       Title="ProductPage" FontFamily="Comic Sans MS">
 
     <Grid>
-        <ListView Name="ProductListView" HorizontalContentAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="800">
+
+            <StackPanel Orientation="Vertical" Margin="20,50,-100,0">
+                <TextBlock Text="Введите название для поиска" Name="TBCount"
+                           Width="280" FontSize="17"/>
+                <TextBox Name="TBoxSearch" TextChanged="TBoxSearch_TextChanged" HorizontalAlignment="Right"
+                         Width="280" FontSize="17"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Height="60" Margin="370,50,-100,0">
+                <TextBlock Text="Фильтрация по скидке"
+                           Width="210" FontSize="17"></TextBlock>
+                <ComboBox Name="ComboType" SelectionChanged="ComboType_SelectionChanged"
+                          FontSize="15" Width="210">
+                    <TextBlock>Все</TextBlock>
+                    <TextBlock>От 0 до 9,99%</TextBlock>
+                    <TextBlock>От 10 до 14,99%</TextBlock>
+                    <TextBlock>От 15% и более</TextBlock>
+                </ComboBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="310,-60,0,0">
+                <RadioButton Content="По возрастанию стоимости" GroupName="Sort"
+                         Width="300" FontSize="17" Name="RButtonUp"
+                         Checked="RButtonUp_Checked"></RadioButton>
+                <RadioButton Content="По убыванию стоимости" GroupName="Sort"
+                         Width="300" FontSize="17" Name="RButtonDown"
+                         Checked="RButtonDown_Checked"></RadioButton>
+            </StackPanel>
+        </WrapPanel>
+
+
+        <ListView Name="ProductListView" HorizontalContentAlignment="Stretch" Grid.Row="1">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <Grid>
@@ -31,7 +68,7 @@
                             </Image.Source>
                         </Image>
                         <StackPanel Grid.Column="1" VerticalAlignment="Center" Margin="15,0,0,0">
-                            <TextBlock Text="{Binding ProductName}" TextWrapping="Wrap" FontSize="20" Margin="0,0,0,10"/>
+                            <TextBlock Text="{Binding ProductName}" TextWrapping="Wrap" FontSize="20" Margin="0,0,0,10" FontWeight="Bold"/>
                             <TextBlock Text="{Binding ProductDescription}" TextWrapping="Wrap" FontSize="11" Margin="0,0,0,10"/>
                             <TextBlock Text="{Binding Manufacturer.ManufacturerName}" Margin="0,0,0,10"/>
                             <TextBlock Text="{Binding ProductCost, StringFormat={}{0:0} рублей}"/>
