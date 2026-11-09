@@ -23,6 +23,8 @@ namespace Baev_Shoes41
         public ProductPage()
         {
             InitializeComponent();
+            var currentProduct = Baev_Shoes41Entities.GetContext().Product.ToList();
+            ProductListView.ItemsSource = currentProduct;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

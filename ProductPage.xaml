@@ -9,6 +9,40 @@
       Title="ProductPage" FontFamily="Comic Sans MS">
 
     <Grid>
-        <Button Content="Go" Click="Button_Click"></Button>
+        <ListView Name="ProductListView" HorizontalContentAlignment="Stretch">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Grid.Column="0" Width="100" Stretch="Uniform"  HorizontalAlignment="Center">
+                            <Image.Source>
+                                <Binding Path="ProductIMG">
+                                    <Binding.TargetNullValue>
+                                        <ImageSource>
+                                            /Res/picture.png
+                                        </ImageSource>
+                                    </Binding.TargetNullValue>
+                                </Binding>
+                            </Image.Source>
+                        </Image>
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center" Margin="15,0,0,0">
+                            <TextBlock Text="{Binding ProductName}" TextWrapping="Wrap" FontSize="20" Margin="0,0,0,10"/>
+                            <TextBlock Text="{Binding ProductDescription}" TextWrapping="Wrap" FontSize="11" Margin="0,0,0,10"/>
+                            <TextBlock Text="{Binding Manufacturer.ManufacturerName}" Margin="0,0,0,10"/>
+                            <TextBlock Text="{Binding ProductCost, StringFormat={}{0:0} рублей}"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,15,0">
+                            <TextBlock Text="Скидка"  HorizontalAlignment="Center" Margin="0,0,0,35"/>
+                            <TextBlock Text="{Binding ProductDiscountAmount, StringFormat={} {0}%}" HorizontalAlignment="Center" FontSize="25" FontFamily="Comic Sans MS"/>
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </Grid>
 </Page>
