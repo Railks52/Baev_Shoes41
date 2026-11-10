@@ -50,9 +50,20 @@ namespace Baev_Shoes41
             ProductListView.ItemsSource = currentProducts;
             TBCount.Text = $"Кол-во {currentProducts.Count} из {totalCount}";
         }
-        public ProductPage()
+        public ProductPage(User user)
         {
             InitializeComponent();
+            if (user != null)
+            {
+                TBAuth.Text = $"Вы авторизованы как {user.UserSurname} {user.UserName} {user.UserPatronymic}";
+                TBRole.Text = $"Роль: " + Baev_Shoes41Entities.GetContext().Role.Find(user.UserRole).RoleName.ToString();
+            }
+            else
+            {
+                TBAuth.Text = "Вы авторизованы как гость";
+                TBRole.Text = "Роль: гость";
+            }
+
             var currentProducts = Baev_Shoes41Entities.GetContext().Product.ToList();
             ProductListView.ItemsSource = currentProducts;
 

@@ -13,7 +13,12 @@
             <RowDefinition Height="auto"></RowDefinition>
             <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
-
+        <WrapPanel Orientation="Vertical" HorizontalAlignment="Center" Width="800">
+            <StackPanel Orientation="Vertical" Margin="400,0,0,0">
+                <TextBlock Name="TBAuth" Width="400" FontSize="17"/>
+                <TextBlock Name="TBRole" Width="400" FontSize="17"/>
+            </StackPanel>
+        </WrapPanel>
         <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="800">
 
             <StackPanel Orientation="Vertical" Margin="20,50,-100,0">

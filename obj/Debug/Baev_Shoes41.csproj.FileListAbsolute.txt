@@ -52,3 +52,5 @@ D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\
 D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.exe
 D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.pdb
 D:\СТУДЕНТЫ\3 курс\БаевИСП3524\GitHub\Baev_Shoes41\obj\Debug\Baev_Shoes41.exe.config
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\AuthPage.g.cs
+C:\MyFiles\Учеба\Третий курс\Разработка Программ Модулей\2Baev_Shoes GitHub\GitHub\Baev_Shoes41\obj\Debug\AuthPage.baml

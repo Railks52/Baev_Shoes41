@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|c:\\myfiles\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\2baev_shoes github\\github\\baev_shoes41\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|c:\\myfiles\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\2baev_shoes github\\github\\baev_shoes41\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|c:\\myfiles\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\2baev_shoes github\\github\\baev_shoes41\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|c:\\myfiles\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\2baev_shoes github\\github\\baev_shoes41\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|c:\\myfiles\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\2baev_shoes github\\github\\baev_shoes41\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\baev_shoes.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:baev_shoes.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\baev_shoes.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:baev_shoes.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|c:\\myfiles\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\2baev_shoes github\\github\\baev_shoes41\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\baev_shoes.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|solutionrelative:baev_shoes.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64945D73-F1CE-4D41-92D8-32C3CC44D993}|Baev_Shoes41.csproj|C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -46,11 +54,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "AuthPage.xaml",
+              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\AuthPage.xaml",
+              "RelativeToolTip": "AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-10T03:28:07.897Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthPage.xaml.cs",
+              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\AuthPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuthPage.xaml.cs",
+              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\AuthPage.xaml.cs",
+              "RelativeToolTip": "AuthPage.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAawGYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T03:47:59.755Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -62,32 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductPage.xaml.cs",
-              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\ProductPage.xaml.cs",
-              "RelativeDocumentMoniker": "ProductPage.xaml.cs",
-              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\ProductPage.xaml.cs",
-              "RelativeToolTip": "ProductPage.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowCEAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T06:17:59.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductPage.xaml",
-              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\ProductPage.xaml",
-              "RelativeDocumentMoniker": "ProductPage.xaml",
-              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\ProductPage.xaml",
-              "RelativeToolTip": "ProductPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-09T05:50:44.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AddEditPage.xaml",
               "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\AddEditPage.xaml",
               "RelativeDocumentMoniker": "AddEditPage.xaml",
@@ -99,33 +105,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-11-09T10:53:21.895Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Baev_Shoes.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\Baev_Shoes.edmx",
+              "RelativeDocumentMoniker": "Baev_Shoes.edmx",
+              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\Baev_Shoes.edmx [Diagram1]",
+              "RelativeToolTip": "Baev_Shoes.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-11-09T06:40:31.122Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\Product.cs",
-              "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\Product.cs",
-              "RelativeToolTip": "Product.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:22:39.757Z",
+              "WhenOpened": "2026-11-10T04:05:27.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "ProductPage.xaml",
+              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\ProductPage.xaml",
+              "RelativeDocumentMoniker": "ProductPage.xaml",
+              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\ProductPage.xaml",
+              "RelativeToolTip": "ProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-09T05:50:44.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\ProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProductPage.xaml.cs",
+              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\ProductPage.xaml.cs",
+              "RelativeToolTip": "ProductPage.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T06:17:59.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -137,7 +167,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:22:39.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Baev_Shoes.Context.cs",
               "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\Baev_Shoes.Context.cs",
               "RelativeDocumentMoniker": "Baev_Shoes.Context.cs",
@@ -145,12 +187,11 @@
               "RelativeToolTip": "Baev_Shoes.Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T13:04:40.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T13:04:40.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -159,18 +200,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-11-09T10:53:12.819Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Baev_Shoes.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\Baev_Shoes.edmx",
-              "RelativeDocumentMoniker": "Baev_Shoes.edmx",
-              "ToolTip": "C:\\MyFiles\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0440\u0435\u0442\u0438\u0439 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C \u041C\u043E\u0434\u0443\u043B\u0435\u0439\\2Baev_Shoes GitHub\\GitHub\\Baev_Shoes41\\Baev_Shoes.edmx [Diagram1]",
-              "RelativeToolTip": "Baev_Shoes.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-11-09T06:40:31.122Z",
-              "EditorCaption": " [Diagram1]"
             }
           ]
         }
