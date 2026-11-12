@@ -1,0 +1,99 @@
+﻿<Page x:Class="Baev_Shoes41.ProductPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Baev_Shoes41"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ProductPage" FontFamily="Comic Sans MS">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <WrapPanel Orientation="Vertical" HorizontalAlignment="Center" Width="800">
+            <StackPanel Orientation="Vertical" Margin="400,0,0,0">
+                <TextBlock Name="TBAuth" Width="400" FontSize="17"/>
+                <TextBlock Name="TBRole" Width="400" FontSize="17"/>
+            </StackPanel>
+        </WrapPanel>
+        <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="800">
+
+            <StackPanel Orientation="Vertical" Margin="20,50,-100,0">
+                <TextBlock Text="Введите название для поиска" Name="TBCount"
+                           Width="280" FontSize="17"/>
+                <TextBox Name="TBoxSearch" TextChanged="TBoxSearch_TextChanged" HorizontalAlignment="Right"
+                         Width="280" FontSize="17"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Height="60" Margin="370,50,-100,0">
+                <TextBlock Text="Фильтрация по скидке"
+                           Width="210" FontSize="17"></TextBlock>
+                <ComboBox Name="ComboType" SelectionChanged="ComboType_SelectionChanged"
+                          FontSize="15" Width="210">
+                    <TextBlock>Все</TextBlock>
+                    <TextBlock>От 0 до 9,99%</TextBlock>
+                    <TextBlock>От 10 до 14,99%</TextBlock>
+                    <TextBlock>От 15% и более</TextBlock>
+                </ComboBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="310,-60,0,0">
+                <RadioButton Content="По возрастанию стоимости" GroupName="Sort"
+                         Width="300" FontSize="17" Name="RButtonUp"
+                         Checked="RButtonUp_Checked"></RadioButton>
+                <RadioButton Content="По убыванию стоимости" GroupName="Sort"
+                         Width="300" FontSize="17" Name="RButtonDown"
+                         Checked="RButtonDown_Checked"></RadioButton>
+            </StackPanel>
+        </WrapPanel>
+
+        <ListView Name="ProductListView" HorizontalContentAlignment="Stretch" Grid.Row="1">
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Добавить к заказу" Click="MenuItem_Click"></MenuItem>
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Grid.Column="0" Width="100" Stretch="Uniform"  HorizontalAlignment="Center">
+                            <Image.Source>
+                                <Binding Path="ProductIMG">
+                                    <Binding.TargetNullValue>
+                                        <ImageSource>
+                                            /Res/picture.png
+                                        </ImageSource>
+                                    </Binding.TargetNullValue>
+                                </Binding>
+                            </Image.Source>
+                        </Image>
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center" Margin="15,0,0,0">
+                            <TextBlock Text="{Binding ProductName}" TextWrapping="Wrap" FontSize="20" Margin="0,0,0,10" FontWeight="Bold"/>
+                            <TextBlock Text="{Binding ProductDescription}" TextWrapping="Wrap" FontSize="11" Margin="0,0,0,10"/>
+                            <TextBlock Text="{Binding Manufacturer.ManufacturerName}" Margin="0,0,0,10"/>
+                            <TextBlock Text="{Binding ProductCost, StringFormat={}{0:0} рублей}"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,15,0">
+                            <TextBlock Text="Скидка"  HorizontalAlignment="Center" Margin="0,0,0,35"/>
+                            <TextBlock Text="{Binding ProductDiscountAmount, StringFormat={} {0}%}" HorizontalAlignment="Center" FontSize="25" FontFamily="Comic Sans MS"/>
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button Name="OrderBtn" Content="Просмотр заказа" Visibility="Collapsed" Click="OrderBtn_Click" Width="200" Height="30" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,25,0"/>
+        <Button Content="Назад" Name="BtnBack" Click="BtnBack_Click"  Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left"></Button>
+
+    </Grid>
+</Page>
